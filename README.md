@@ -1,4 +1,4 @@
-## Bike renting portal
+## Home Furniture Shop
 
 Website uses React for its front-end functionality and Bootstrap for styling of the site.
 An e-commerce home furniture shopping site clone with few functionalities.
